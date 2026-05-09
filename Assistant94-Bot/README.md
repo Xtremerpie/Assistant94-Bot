@@ -28,7 +28,7 @@ A powerful JEE study assistant Discord bot built using Python and discord.py.
 | !timer  | Start study timer |
 | !notes physics ch1 | Show notes |
 
-🤖 📚 JEE Assistant Bot — Full Command List 
+#🤖 📚 JEE Assistant Bot — Full Command List 
 -!hello
 -!motivate
 -!studytip
