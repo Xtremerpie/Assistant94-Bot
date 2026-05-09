@@ -28,19 +28,19 @@ A powerful JEE study assistant Discord bot built using Python and discord.py.
 | !timer  | Start study timer |
 | !notes physics ch1 | Show notes |
 
-#🤖 📚 JEE Assistant Bot — Full Command List 
--!hello
--!motivate
--!studytip
--!formula physics
--!formula chemistry
--!formula math
--!formula
--!timer 1
--!timer 25
--!addtask Revise Thermodynamics
--!taskslist
--!removetask 1
+# 🤖 📚 JEE Assistant Bot — Full Command List 
+- !hello
+- !motivate
+- !studytip
+- !formula physics
+- !formula chemistry
+- !formula math
+- !formula
+- !timer 1
+- !timer 25
+- !addtask Revise Thermodynamics
+- !taskslist
+- !removetask 1
 
 ---
 
