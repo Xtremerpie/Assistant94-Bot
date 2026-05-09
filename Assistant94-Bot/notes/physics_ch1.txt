@@ -1,0 +1,218 @@
+CHAPTER
+1 Units and Measurements
+
+Fundamental Quantity                              
+The physical quantities which do                 
+not depend on any other physical                 
+quantities for their measurements.
+E.g., Mass, Length, Time
+Temperature, current, luminous
+Intensity & mole
+
+Derived Quantity
+Those quantities which can
+be expressed in terms of
+fundamental/base quantities.
+E.g., velocity Acceleration,
+force etc.,
+
+System of Units
+(a) FPS System: Here length is measured in foot, mass in
+pounds and time in second.
+(b) CGS System: In this system, L is measured in cm, M is
+measured in g and T is measured in sec.
+(c) MKS System: In this system, L is measured in metre, M is
+measured in kg and T is measured in sec.
+
+Principle of Homogeneity
+According to this, the physical quantities having same dimension
+can be added or subtracted with each other and for a given equation,
+dimensions of both sides must be same.
+
+For eg, in equation = + +
+B
+F A m C
+v ,
+
+all the three terms of R.H.S have same dimension as force on L.H.S.
+Dimensions
+
+The fundamental or base quantities along with their powers needed
+to express a physical quantity is called dimension.
+E.g.: [F] = [MLT–2] is dimension of force.
+
+Usage of Dimensional Analysis
+(i) To check the correctness of a given formula.
+(ii) To establish relation between quantities dimensionally.
+(iii) To convert the value of a quantity from one system of
+units to other system.
+
+Limitations of Dimensional Analysis
+(i) It does not predict the numerical value or number
+associated with a physical quantity in a relation
+eg, 1
+3 5
+u
+v = + at & v = u + at
+Both are dimensionally valid.
+
+(ii) It does not derive any relations involving trigonometric,
+logarithmic or exponential functions
+E.g. P = P0e–bt2 cannot be derived dimensionally.
+
+(iii) It does not give any information about dimensionally
+constants or nature of a quantity (vector/scalar) associated
+with a relation.
+
+Significant Figure or Digits
+1. Rules to find out the number of significant figures:
+I Rule:All the non-zero digits are significant E.g. 1984 has
+4 SF.
+II Rule: All the zeros between two non-zero digits are
+significant. E.g. 10806 has 5 SF.
+III Rule: All the zeros to the left of first non-zero digit are
+not significant. E.g.00108 has 3 SF.
+IV Rule: If the number is less than 1, zeros on the right of the
+decimal point but to the left of the first non-zero digit are not
+significant. E.g. 0.002308 has 4 SF.
+V Rule : The trailing zeros (zeros to the right of the last non-
+zero digit) in a number with a decimal point are significant.
+E.g. 01.080 has 4 SF.
+VI Rule: The trailing zeros in a number without a decimal
+point are not significant e.g. 010100 has 3 SF. But if the
+number comes from some actual measurement then the
+trailing zeros become significant. E.g. m = 100 kg has 3 SF.
+VII Rule: When the number is expressed in exponential
+form, the exponential term does not affect the number of S.F.
+For example in x = 12.3 = 1.23 × 101 = .123 × 102 = 0.0123
+× 103 = 123 × 10–1, each term has 3 SF only.
+
+2. Rules for arithmetical operations with significant figures:
+I Rule: In addition or subtraction the number of decimal
+places in the result should be equal to the number of decimal
+places of that term in the operation which contain lesser
+number of decimal places. E.g. 12.587 – 12.5 = 0.087 = 0.1
+( second term contain lesser i.e. one decimal place)
+II Rule: In multiplication or division, the number of SF in the
+product or quotient is same as the smallest number of SF in
+any of the factors. E.g. 5.0 × 0.125 = 0.625 = 0.62.
+
+Rounding Off
+Rules for rounding off the numbers:
+I Rule: If the digit to be rounded off is more than 5, then the
+preceding digit is increased by one. e.g. 6.87≈ 6.9
+II Rule: If the digit to be rounded off is less than 5, than the
+preceding digit is unaffected and is left unchanged. e.g. 3.94 ≈ 3.9
+III Rule: If the digit to be rounded off is 5 then the preceding digit
+is increased by one if it is odd and is left unchanged if it is even.
+e.g. 14.35 ≈ 14.4 and 14.45 ≈ 14.4
+Representation of Errors
+1. Mean absolute error is defined as
+1 2
+
+1
+... n
+n i
+i
+a a a a
+a n n=
+∆ + ∆ + + ∆ ∆
+∆ = = ∑
+Final result of measurement may be written as:
+a = am ± a∆
+
+2. Relative Error or Fractional Error: It is given by
+Mean absolute Error
+Mean value of measurementm
+a
+a
+∆ =
+
+3. Percentage Error 100%
+m
+a
+a
+∆
+= ×
+Combination of Errors
+(i) In Sum: If Z = A + B, then ∆Z = ∆A + ∆B.
+Maximum fractional error in this case is
+Z A B
+Z A B A B
+∆ ∆ ∆
+= +
++ +
+(ii) In Difference: If Z = A – B, then maximum absolute error
+is ∆Z = ∆A + ∆B and maximum fractional error in this case
+Z A B
+Z A B A B
+∆ ∆ ∆
+= +
+− −
+(iii) In Product: If Z = AB, then the maximum fractional error,
+Z A B
+Z A B
+∆ ∆ ∆
+= +
+(iv) In Division: If Z = A/B, then maximum fractional error is
+Z A B
+Z A B
+∆ ∆ ∆
+= +
+(v) In Power: If Z = An then Z A
+n
+Z A 
+
+In more general form if
+x y
+q
+A B
+Z C
+=
+then the maximum fractional error in Z is
+Z A B C
+x y q
+Z A B C
+∆ ∆ ∆ ∆
+= + +
+To Find Smaller Measurements
+Vernier Calliper
+(i) Least count: Suppose movable Jaw is slided till the zero
+of vernier scale coincides with any of the mark of the main
+scale.
+Let, n V.S.D = (n – 1) MSD 1
+1VSD n
+n
+− 
+⇒ =  
+  M.S.D
+\ Vernier constant = 1 M.S.D – 1 V.S.D
+1 1
+1 MSD MSD
+n
+n n
+− 
+= − = 
+ 
+(ii) Total reading = MSR + VSR
+= MSR + n ×VC
+where MSR = Main scale reading
+VC = Vernier constant i.e. least count
+n = nth division of vernier scale coinciding with main scale.
+Screw Gauge
+This instrument works on the principle of micro-meter screw. It
+is used to measure very small (mm) measurements. It is provided
+with linear scale and a circular scale.
+(i) Pitch of the screw gauge
+Distance moved in -rotation of cir-scale
+No.of full -rotation
+n
+=
+(ii) L.C = Pitch
+Total number of division on the circular scale
+(iii) Total Reading (T.R) = L.S.R + C.S.R
+L.S.R = Linear scale Reading = N where
+C.S.R = Circular Scale Reading = n × L.C
+If nth division of circular scale coincides with the linear
+scale line, then
+\ Total reading = N + n × (L.C)
